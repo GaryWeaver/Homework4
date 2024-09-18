@@ -1,0 +1,54 @@
+.item2 {
+    display: flex;
+    flex-direction: column; 
+    width: 200px;
+}
+
+.nav-items {
+    display: flex;
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    list-style-type: none;
+    padding-bottom: 100px;
+}
+
+.nav-items li {
+    margin: 150px 0; /* Space out the items vertically */
+}
+
+.item3 p {
+    color: #c55a02;
+    margin: 15px;
+    padding: 10px;
+    font-size: 0.8em;
+}
+
+.item3 li {
+    margin: 0px 0;
+    font-size: 1.3em;
+    color: #840000;
+}
+
+.item4 p {
+    color: #989797;
+    text-align: left;
+    padding: 15px;
+}
+
+.download-btn {
+    display: block;
+    width: calc(100% - 40px);
+    text-align: center;
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 1.1em;
+    transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+    background-color: #0056b3; 
+}
