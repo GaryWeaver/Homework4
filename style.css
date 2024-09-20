@@ -80,15 +80,6 @@
     }
 }
 
-@media (min-width: 1025px) {
-    .item3 p {
-        color: #c55a02;
-        margin: 15px;
-        padding: 10px;
-        font-size: 22px;
-    }
-}
-
 .item4 p {
     color: #989797;
     text-align: left;
