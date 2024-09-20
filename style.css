@@ -3,6 +3,13 @@
     flex-direction: column; 
 }
 
+.item3 p {
+        color: #c55a02;
+        margin: 15px;
+        padding: 10px;
+        font-size: 22px;
+}
+
 .nav-items {
     display: flex;
     flex-direction: column; 
@@ -28,7 +35,7 @@
         margin-bottom: 10px;
     }
 
-    body, p {
+    body, .item3 p {
         font-size: 20px;
     }
     h1 {
@@ -50,7 +57,7 @@
         margin-bottom: 5px;
     }
 
-    body, p {
+    body, .item3 p {
         font-size: 18px;
     }
     h1 {
@@ -68,7 +75,7 @@
         font-size: 12px;
     }
 
-    body, p {
+    body, .item3 p {
         font-size: 15px;
     }
     h1 {
