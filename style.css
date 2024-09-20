@@ -80,11 +80,13 @@
     }
 }
 
-.item3 p {
-    color: #c55a02;
-    margin: 15px;
-    padding: 10px;
-    font-size: 22px;
+@media (max-width: 3000px) {
+    .item3 p {
+        color: #c55a02;
+        margin: 15px;
+        padding: 10px;
+        font-size: 22px;
+    }
 }
 
 .item4 p {
