@@ -80,7 +80,7 @@
     }
 }
 
-@media (max-width: 3000px) {
+@media (min-width: 1025px) {
     .item3 p {
         color: #c55a02;
         margin: 15px;
